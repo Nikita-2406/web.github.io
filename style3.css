@@ -1,0 +1,20 @@
+body {
+  background-image: url(zavr.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 1080px;
+  height: 2400px;
+  margin: 0;
+  padding: 0;
+}
+
+.head {
+  position: absolute;
+  width: 80%;
+  height: 60%;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 50px;
+  border: solid rgba(0, 0, 0, 0.5) 2px ;
+  top: 10%;
+  left: 10%;
+}
